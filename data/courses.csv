@@ -1,0 +1,87 @@
+course_id,course_title,skill_taught,platform,duration_weeks
+CRS0001,Complete Guide to AWS,AWS,edX,6
+CRS0002,Accounting Crash Course,Accounting,Udemy,8
+CRS0003,Accounting for Beginners,Accounting,Coursera,6
+CRS0004,Adobe XD for Beginners,Adobe XD,LinkedIn Learning,6
+CRS0005,Azure for Beginners,Azure,Coursera,2
+CRS0006,Mastering Azure,Azure,edX,8
+CRS0007,Bloomberg Terminal for Beginners,Bloomberg Terminal,Udemy,4
+CRS0008,Complete Guide to Branding,Branding,Skillshare,8
+CRS0009,Branding Crash Course,Branding,Skillshare,4
+CRS0010,CI/CD for Beginners,CI/CD,Skillshare,8
+CRS0011,Complete Guide to CI/CD,CI/CD,edX,2
+CRS0012,Mastering CSS,CSS,LinkedIn Learning,4
+CRS0013,Complete Guide to CSS,CSS,edX,2
+CRS0014,Canva Bootcamp,Canva,Coursera,8
+CRS0015,Canva Crash Course,Canva,edX,4
+CRS0016,Complete Guide to Computer Vision,Computer Vision,Coursera,4
+CRS0017,Content Writing for Beginners,Content Writing,edX,4
+CRS0018,Copywriting Bootcamp,Copywriting,Udemy,2
+CRS0019,Data Visualization Bootcamp,Data Visualization,Udemy,4
+CRS0020,Mastering Deep Learning,Deep Learning,edX,4
+CRS0021,Deep Learning for Beginners,Deep Learning,Udemy,6
+CRS0022,Docker for Beginners,Docker,Coursera,4
+CRS0023,Email Marketing Crash Course,Email Marketing,Udemy,6
+CRS0024,Mastering Excel,Excel,edX,2
+CRS0025,Complete Guide to Express.js,Express.js,Skillshare,2
+CRS0026,Complete Guide to Figma,Figma,LinkedIn Learning,6
+CRS0027,Complete Guide to Financial Modeling,Financial Modeling,Skillshare,4
+CRS0028,Financial Reporting Bootcamp,Financial Reporting,edX,8
+CRS0029,Git for Beginners,Git,LinkedIn Learning,8
+CRS0030,Google Ads for Beginners,Google Ads,LinkedIn Learning,2
+CRS0031,Complete Guide to Google Ads,Google Ads,Coursera,6
+CRS0032,Google Analytics for Beginners,Google Analytics,Udemy,6
+CRS0033,Complete Guide to HTML,HTML,LinkedIn Learning,8
+CRS0034,HTML Crash Course,HTML,Coursera,2
+CRS0035,Complete Guide to Illustrator,Illustrator,LinkedIn Learning,4
+CRS0036,JavaScript Crash Course,JavaScript,LinkedIn Learning,8
+CRS0037,Complete Guide to JavaScript,JavaScript,Coursera,6
+CRS0038,Jenkins Crash Course,Jenkins,edX,4
+CRS0039,Jenkins Bootcamp,Jenkins,LinkedIn Learning,2
+CRS0040,Kubernetes for Beginners,Kubernetes,Coursera,8
+CRS0041,Linux Crash Course,Linux,Udemy,2
+CRS0042,Market Research for Beginners,Market Research,edX,8
+CRS0043,Complete Guide to Market Research,Market Research,Coursera,6
+CRS0044,MongoDB Crash Course,MongoDB,Skillshare,4
+CRS0045,MongoDB for Beginners,MongoDB,Udemy,8
+CRS0046,NLP for Beginners,NLP,edX,6
+CRS0047,Node.js Crash Course,Node.js,Skillshare,4
+CRS0048,NumPy Bootcamp,NumPy,Skillshare,6
+CRS0049,NumPy for Beginners,NumPy,Coursera,4
+CRS0050,Pandas Crash Course,Pandas,edX,2
+CRS0051,Pandas Bootcamp,Pandas,Udemy,4
+CRS0052,Photoshop for Beginners,Photoshop,Coursera,2
+CRS0053,Mastering Photoshop,Photoshop,Skillshare,4
+CRS0054,Complete Guide to Power BI,Power BI,edX,4
+CRS0055,Power BI Bootcamp,Power BI,edX,6
+CRS0056,Prototyping Bootcamp,Prototyping,Coursera,4
+CRS0057,Prototyping for Beginners,Prototyping,Udemy,2
+CRS0058,PyTorch Crash Course,PyTorch,LinkedIn Learning,8
+CRS0059,Python Bootcamp,Python,LinkedIn Learning,6
+CRS0060,Complete Guide to Python,Python,Udemy,2
+CRS0061,Complete Guide to R Programming,R Programming,edX,8
+CRS0062,R Programming for Beginners,R Programming,Skillshare,6
+CRS0063,Mastering REST APIs,REST APIs,LinkedIn Learning,2
+CRS0064,Mastering React,React,edX,4
+CRS0065,Risk Analysis Crash Course,Risk Analysis,edX,6
+CRS0066,SEO for Beginners,SEO,LinkedIn Learning,8
+CRS0067,Mastering SQL,SQL,LinkedIn Learning,4
+CRS0068,Scikit-learn for Beginners,Scikit-learn,Coursera,8
+CRS0069,Complete Guide to Scikit-learn,Scikit-learn,Coursera,8
+CRS0070,Shell Scripting Crash Course,Shell Scripting,Skillshare,8
+CRS0071,Complete Guide to Sketch,Sketch,Coursera,8
+CRS0072,Sketch Crash Course,Sketch,Coursera,6
+CRS0073,Social Media Marketing Bootcamp,Social Media Marketing,LinkedIn Learning,6
+CRS0074,Complete Guide to Statistics,Statistics,Coursera,4
+CRS0075,Tableau Bootcamp,Tableau,Skillshare,2
+CRS0076,Complete Guide to Tableau,Tableau,LinkedIn Learning,6
+CRS0077,Mastering TensorFlow,TensorFlow,Udemy,2
+CRS0078,TensorFlow Crash Course,TensorFlow,Skillshare,2
+CRS0079,Terraform Crash Course,Terraform,edX,4
+CRS0080,TypeScript for Beginners,TypeScript,Udemy,6
+CRS0081,Mastering UI/UX Design,UI/UX Design,Skillshare,4
+CRS0082,Mastering User Research,User Research,LinkedIn Learning,8
+CRS0083,Valuation Bootcamp,Valuation,edX,4
+CRS0084,Valuation Crash Course,Valuation,LinkedIn Learning,2
+CRS0085,Complete Guide to Wireframing,Wireframing,edX,2
+CRS0086,Wireframing Crash Course,Wireframing,edX,2
