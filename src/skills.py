@@ -37,6 +37,11 @@ SKILL_CATEGORIES = {
         "Reinforcement Learning", "OpenCV", "Hugging Face",
         "Feature Engineering", "Model Deployment", "MLOps",
     ],
+    "Core CS Fundamentals": [
+        "Machine Learning", "OOP", "DSA", "Data Structures",
+        "Algorithms", "Operating Systems", "Computer Networks",
+        "System Design", "Object-Oriented Programming",
+    ],
     "Cloud & DevOps": [
         "AWS", "Azure", "Google Cloud Platform", "Docker", "Kubernetes",
         "CI/CD", "Linux", "Terraform", "Jenkins", "Git", "GitHub Actions",
@@ -56,7 +61,7 @@ SKILL_CATEGORIES = {
         "SEO", "Content Writing", "Social Media Marketing",
         "Google Analytics", "Email Marketing", "Copywriting",
         "Market Research", "Google Ads", "Branding",
-        "Influencer Marketing", "SEM", "A/B Testing", "HubSpot",
+        "Influencer Marketing", "A/B Testing", "HubSpot",
     ],
     "Finance & Business": [
         "Financial Modeling", "Accounting", "Bloomberg Terminal",
