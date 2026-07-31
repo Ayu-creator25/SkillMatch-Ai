@@ -61,7 +61,7 @@ def find_skills_in_text(text):
     # Characters that count as "part of a word" for our purposes.
     # Extending beyond just letters/digits to include symbols that
     # appear inside real skill names (C++, C#, Node.js).
-    boundary_chars = r"A-Za-z0-9+#\."
+    boundary_chars = r"A-Za-z0-9+#"
 
     for skill in ALL_SKILLS:
         skill_lower = skill.lower()
